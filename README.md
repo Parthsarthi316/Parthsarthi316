@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*zj5y51eruaDBGN23.jpg)
+![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2019/07/actatlas-banner.png)
 <h1 align="center">Hi 👋, I'm Parthsarthi Rawat</h1>
 <h3 align="center">A Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/XXAXt1WWm3YAAAAi/pepe-hack-hack.gif">
